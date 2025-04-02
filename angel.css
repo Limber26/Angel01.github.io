@@ -1,0 +1,30 @@
+h1 {
+   text-align:center;
+   color:white;
+}
+
+P{
+   text-align:center;
+   color:white;
+}
+
+img {
+    margin: 10px;
+    border-radius:15px;
+} 
+Table{
+   text-align:center;
+   color:white;
+}
+
+.PRIMERA { 
+    DISPLAY:FLEX;
+    ALIGN-ITEMS: CENTER;
+    text-align: left;
+}
+li{
+   color:white;
+}
+td{
+   color:white;
+} 
